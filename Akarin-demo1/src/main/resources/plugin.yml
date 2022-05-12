@@ -1,0 +1,4 @@
+name: Helloworld
+version: '${project.version}'
+main: demo.helloworld.Helloworld
+api-version: 1.15

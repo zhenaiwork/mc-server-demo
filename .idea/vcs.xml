@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Akarin-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Akarin-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Paper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Paper/Paper-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Paper/Paper-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Paper/work/BuildData" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Paper/work/Bukkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Paper/work/CraftBukkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Paper/work/Paperclip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Paper/work/Spigot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Paper/work/Spigot/Spigot-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Paper/work/Spigot/Spigot-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Tuinity-API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/Tuinity-Server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Akarin/Tuinity/mc-dev" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fabric-example-mod" vcs="Git" />
+  </component>
+</project>
